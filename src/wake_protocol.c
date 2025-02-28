@@ -1,4 +1,4 @@
-#include "wake_base_protocol.h"
+#include "wake_protocol.h"
 
 
 /// Table for CRC8 poly calculations
